@@ -1,5 +1,19 @@
 [
  {
+  "id": 3652072,
+  "pid": 111,
+  "listId": 106252,
+  "subject": "스파크랩  10월 소식 🍁",
+  "previewText": "보스턴 현지 행사 프로그램부터 AI 창업 투자 인사이트 소식 전해드립니다!",
+  "permanentLink": "https://stib.ee/1WpO",
+  "sentTime": "2026-10-16T15:05:49.190038356+09:00",
+  "contentType": "",
+  "accessControlLevel": 2,
+  "MergeVariables": {
+   "subscribers_count": 3876
+  }
+ },
+ {
   "id": 3603603,
   "pid": 110,
   "listId": 106252,
